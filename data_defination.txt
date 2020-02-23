@@ -1,25 +1,30 @@
-Date:
+Date: Date of trading day
 
-High:
+High: Highest Price of Stock on that day
 	
-Low:
+Low: Lowest Price of Stock on that day
 	
-Open:
+Open: Opening Price of Stock on that day
 	
-Close:
+Close: Closing Price of Stock on that day
 	
-Volume:
+Volume: Number of shares or contracts traded in a security or an entire market during a given period of time
 	
-Adj Close:
+Adj Close: Adjusted closing price amends a stock's closing price to accurately reflect that stock's value after accounting for any corporate actions
 	
-Mkt-RF:	
 
-SMB:
+
+## All These factors below reflect on the macro-economic situation of that day, you get these values don't bother calculating just understand
+
+Mkt-RF:	MKTRF (or Rm-Rf) is the excess return on the market. It is calculated as the value-weight return on all NYSE, AMEX, and NASDAQ stocks (from CRSP) minus the one-month Treasury bill rate (from Ibbotson Associates)
+
+SMB: SMB (Small Minus Big): is the average return on the three small portfolios minus the average return on the three big portfolios
 	
-HML:
+HML: High Minus Low (H M L) is the average return on the two value portfolios minus the average return on the two growth portfolios
+		
+RF: This is just Risk Free interest you can get(Like treasure bills or say basic checking account returns as an example)
+
+# These are also related to fama french factors apparently i've never used them
+RMW: Difference between the returns of firms with robust (high) and weak (low) operating profitability.(Probablity factor)
 	
-RMW:
-	
-CMA:
-	
-RF:
+CMA: Difference between the returns of firms that invest conservatively and firms that invest aggressively.(Investment Factor)
