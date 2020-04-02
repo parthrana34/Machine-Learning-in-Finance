@@ -6,7 +6,7 @@ Created on Fri Jan 10 21:09:54 2020
 """
 import numpy as np
 import pandas as pd
-import pyflux as pf
+#import pyflux as pf
 from scipy.optimize import minimize
 from pandas_datareader import DataReader
 from datetime import datetime
