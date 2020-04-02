@@ -13,11 +13,20 @@ Volume: Number of shares or contracts traded in a security or an entire market d
 Adj Close: Adjusted closing price amends a stock's closing price to accurately reflect that stock's value after accounting for any corporate actions
 	
 The S&P 500, or just the S&P, is a stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States. It is one of the most commonly followed equity indices, and many consider it to be one of the best representations of the U.S. stock market.
-
+This is for Health Care Sector- Top 500 Companies in the Health Care Domain.
 HC-Open- Cumulative opening price of all HealthCare stocks on that day.
 HC-Close- Cumulative closing price of all HealthCare stocks on that day.
 HC- High- Cumulative high price of all the HealthCare stocks on that day.
 HC-lOW- Cumulative low price of all the HealthCare stocks on that day.
+
+Competitors of P&G and their stock price indexs.
+JNJ- Stock Price indexes of Johnson N Johnson
+UL-Stock Price indexes of Unilever
+CL-Stock Price indexes of Colgate-Palmolive
+Church-Stock Price indexes of Church and Dwight
+
+ADS-Index-The Aruoba-Diebold-Scotti business conditions index is designed to track real business conditions at high observation frequency. The average value of the ADS index is zero. Progressively bigger positive values indicate progressively better-than-average conditions, whereas progressively more negative values indicate progressively worse-than-average conditions. The ADS index may be used to compare business conditions at different times.
+
 
 ## All These factors below reflect on the macro-economic situation of that day, you get these values don't bother calculating just understand
 
