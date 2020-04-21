@@ -17,30 +17,30 @@ Objective: Create a machine learning model to predict next day open price of P&G
 5. Machine Learning Models and Strategies:
 
 
-    Linear Regression
+    > Linear Regression
     
-    Linear Regression with PCA
+    > Linear Regression with PCA
     
-    Random Forest Algorithm
+    > Random Forest Algorithm
     
-    Time Series Forecasting ARIMA model
+    > Time Series Forecasting ARIMA model
     
-    Pairs Trading Algorithm
+    > Pairs Trading Algorithm
     
-    Garch Model
+    > Garch Model
     
-    Long Short Term Memory (RNN)
+    > Long Short Term Memory (RNN)
     
 
 6. Backtesting and Risk Analysis
 
-    Sharpe Ratio
+    > Sharpe Ratio
     
-    Treynor Ratio
+    > Treynor Ratio
     
-    Average Profit
+    > Average Profit
     
-    Hit Rate
+    > Hit Rate
 
 
 7. Empirical findings, profits and losses, risk analysis
