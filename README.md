@@ -1,6 +1,6 @@
 # Machine-Learning-in-Finance
 
-Objective: Create a machine learning model to predict next day open price of P&G stock, which can be useful for automated trading strategies.
+Objective: Create a machine learning model from scratch to predict next day open price of P&G stock, which can be useful for automated trading strategies.
 
 [Final Report: Final Presentation.pdf](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/Final%20Presentation.pdf)
 
@@ -17,9 +17,9 @@ Objective: Create a machine learning model to predict next day open price of P&G
 5. Machine Learning Models and Strategies:
 
 
-    > Linear Regression
+    > [Linear Regression](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/Linear%20Regression%20without%20PCA.ipynb)
     
-    > Linear Regression with PCA
+    > [Linear Regression with PCA](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/Linear%20Regression%20with%20PCA.ipynb)
     
     > Random Forest Algorithm
     
