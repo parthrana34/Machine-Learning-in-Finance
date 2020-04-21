@@ -21,18 +21,18 @@ Objective: Create a machine learning model from scratch to predict next day open
     
     > [Linear Regression with PCA](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/Linear%20Regression%20with%20PCA.ipynb)
     
-    > Random Forest Algorithm
+    > [Random Forest Algorithm](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/Random%20Forest%20Without%20PCA.ipynb)
     
-    > Time Series Forecasting ARIMA model
+    > [Time Series Forecasting ARIMA model](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/Time%20Series%20ARIMA%20Model.ipynb)
     
-    > Pairs Trading Algorithm
+    > [Pairs Trading Algorithm](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/Pair%20Trading%20Algorithm.ipynb)
     
-    > Garch Model
+    > [Garch Model](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/Garch%20for%20PG.ipynb)
     
-    > Long Short Term Memory (RNN)
+    > [Long Short Term Memory (RNN)](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/lstm-pg.ipynb)
     
 
-6. Backtesting and Risk Analysis
+6. [Backtesting and Risk Analysis](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/backtest_functions.py)
 
     > Sharpe Ratio
     
@@ -47,3 +47,9 @@ Objective: Create a machine learning model from scratch to predict next day open
 
 ![alt text](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/Results.jpg "Logo Title Text 1")
 
+### Contributors
+
+   1) [Shaishav Shah](https://github.com/shaishav11)
+   2) [Supriya Murthy](https://github.com/supriyavm)
+   3) [Anshul Balamwar](https://github.com/anshulb1331)
+   4) [Parth Rana](https://github.com/parthrana34)
