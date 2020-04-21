@@ -4,7 +4,7 @@ Objective: Create a machine learning model to predict next day open price of P&G
 
 [Final Report: Final Presentation.pdf](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/blob/master/Final%20Presentation.pdf)
 
-###Project Includes:
+### Project Includes:
 
 1. Introduction on the past and present of P&G Stock and deep understanding about the market.
  
@@ -16,20 +16,32 @@ Objective: Create a machine learning model to predict next day open price of P&G
 
 5. Machine Learning Models and Strategies:
 
+
     Linear Regression
+    
     Linear Regression with PCA
+    
     Random Forest Algorithm
+    
     Time Series Forecasting ARIMA model
+    
     Pairs Trading Algorithm
+    
     Garch Model
+    
     Long Short Term Memory (RNN)
+    
 
 6. Backtesting and Risk Analysis
 
     Sharpe Ratio
+    
     Treynor Ratio
+    
     Average Profit
+    
     Hit Rate
+
 
 7. Empirical findings, profits and losses, risk analysis
 
